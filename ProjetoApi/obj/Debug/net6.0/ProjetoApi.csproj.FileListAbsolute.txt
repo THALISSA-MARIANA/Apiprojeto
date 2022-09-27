@@ -1,0 +1,7 @@
+C:\Users\Thalissa Mariana\Desktop\apiprojeto\Projeto\ProjetoApi\obj\Debug\net6.0\ProjetoApi.csproj.AssemblyReference.cache
+C:\Users\Thalissa Mariana\Desktop\apiprojeto\Projeto\ProjetoApi\obj\Debug\net6.0\ProjetoApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thalissa Mariana\Desktop\apiprojeto\Projeto\ProjetoApi\obj\Debug\net6.0\ProjetoApi.AssemblyInfoInputs.cache
+C:\Users\Thalissa Mariana\Desktop\apiprojeto\Projeto\ProjetoApi\obj\Debug\net6.0\ProjetoApi.AssemblyInfo.cs
+C:\Users\Thalissa Mariana\Desktop\apiprojeto\Projeto\ProjetoApi\obj\Debug\net6.0\ProjetoApi.csproj.CoreCompileInputs.cache
+C:\Users\Thalissa Mariana\Desktop\apiprojeto\Projeto\ProjetoApi\obj\Debug\net6.0\ProjetoApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Thalissa Mariana\Desktop\apiprojeto\Projeto\ProjetoApi\obj\Debug\net6.0\ProjetoApi.MvcApplicationPartsAssemblyInfo.cache
